@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppDzikir</string>
+    <string name="No">1</string>
+    <string name="Judul">Dhikr Arab</string>
+    <string name="SubJudul">Dhikr Meaning</string>
+    <string name="AboutApp">Assalamualaikum Warahmatullahi Wabarakatuh... Pada Kesempatan Kali Ini Saya Membuat Aplikasi Dzikir, Saya Membuat Aplikasi Ini Karena Saya Mendapatkan Tugas Dari Guru Saya Yaitu Ustad Salim Hartono. Fungsi Dari Aplikasi Ini Adalah Kalian Bisa Membaca Dzikir Pagi Dan Petang Menggunakan Aplikasi Ini, Dan Juga Aplikasi Ini Menyediakan Dzikir Setelah Sholat, Dan Kalian Juga Bisa Belajar Atau Membaca Doa Harian Di Dalam Aplikasi Ini. Jika Kalian Mau Melihat Data Diri Saya ( Tinggal Kalian Tekan Button Dibawah Ini )</string>
+    <string name="JudulNama">Name : Hilmi Raditya Ramadhan</string>
+    <string name="JudulTempatLahir">Place Of Birth : 11 Oktober 2005, Jakarta</string>
+    <string name="JudulAlamat">Address : Jl.Camar No.33 Bekasi</string>
+    <string name="JudulAsalSekolah">School : IDN Boarding School</string>
+    <string name="JudulGmail">Email : frepics.05@gmail.com</string>
+    <string name="JudulNoTelp">Telp Number : 081398447445</string>
+    <string name="JudulInstagram">Instagram : frepics_05</string>
+    <string name="GantiBahasa">Change Language</string>
+</resources>
