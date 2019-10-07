@@ -14,7 +14,10 @@
         <activity android:name=".TahmidActivity" />
         <activity android:name=".TasbihActivity" />
         <activity android:name=".DetailActivity" />
-        <activity android:name=".AboutActivity" />
+        <activity android:name=".AboutActivity" >
+                        <meta-data android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"/>
+        </activity>
         <activity android:name=".DoaHarianActivity" />
         <activity android:name=".MenuActivity" />
         <activity android:name=".MainActivity">
